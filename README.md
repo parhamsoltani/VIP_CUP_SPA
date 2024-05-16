@@ -3,21 +3,21 @@ Notebooks and Tasks' solutions associated with Video and Image Processing Contes
 >SPA stands for Sajjad, Parham and Amirtaha.  
 
 Stage1:  
-Task0 --> Image flipping  
-Task1 --> Color mask  
-Task2 --> Musical notes extraction  
-Task3 --> Finger-print matching  
+Task0 --> Image Flipping  
+Task1 --> Color Mask  
+Task2 --> Musical Notes extraction  
+Task3 --> Finger-Print matching  
 GoldenTask1 --> Color Masks  
 GoldenTask2 --> Adaptive Threshold  
 
 Stage2:  
 Task0 --> Frame Extraction  
-Task1 --> Finding Contours using binary threshold  
-Task2 --> Object detection in Video  
+Task1 --> Finding Contours using Binary Threshold  
+Task2 --> Object Detection in Video  
 Task3 --> Lane Detector  
 
 Finale:  
 Task0 --> Object Detection in Video  
-Task1 --> Proceeding permission  
-Task3 --> Tooth error and Chamfer symmetry checker for a gear  
+Task1 --> Proceeding Permission  
+Task3 --> Gear's Tooth error and Chamfer Symmetry checker  
 Task4 --> Real-Time Face and Smile detector  
